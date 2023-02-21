@@ -28,6 +28,7 @@ Damit wir das HedgeDoc und auch allenfalls GitHub für unser Lerntagebuch bearbe
 
 ---
 
+
 #### Teil 2, Nachmittag
 
 Nach der Pause trug der Dozent noch einige Tipps zur Unix Shell vor. Ausserdem wurde auf die Wichtigkeit der Unix Shell aufmerksam gemacht. Wenn man Open Source Programme in Bibliotheken und Archiven nutzen möchte, kommt man um diese Eingabemöglichkeit nicht drum herum. Die Textbasierte Suche ist zudem extrem schnell. 
