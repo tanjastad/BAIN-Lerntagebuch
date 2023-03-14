@@ -1,3 +1,8 @@
+---
+title: "Lehreinheit 2"
+date: 2023-02-28
+---
+
 ## Lehreinheit 2
 Eigentlich wäre heute bereits die dritte Lerneinheit von BAIN gewesen, da wir den letzten Termin jedoch verschieben mussten, stand das zweite Treffen an. Nachdem erste organisatorische Fragen geklärt wurden, gab Herr Lohmeier das Thema der Einheit bekannt. Die heutige Sitzung drehte sich um OpenRefine. Dieser Begriff sagte mir im Voraus nichts, deshalb war es für mich sehr schwierig ihn einzuordnen. Im Laufe der Vorlesung wurde klar, dass es sich dabei um eine Open Source Software handelt. Während dem Schreiben des Lerntagebuch-Eintrages ziehe ich nun das Schaubild aus der letzten Einheit zu Rate. Mir war während der Einheit nicht ganz klar, wo in dieser Übersicht das Thema zu verorten ist. Jetzt weiss ich, dass es sich um den separaten „Strang“ handelt, mit dem man Tabellendaten bearbeiten und einspeisen kann. 
 
