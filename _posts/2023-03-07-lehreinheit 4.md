@@ -3,7 +3,7 @@ title: "Lehreinheit 4"
 date: 2023-03-07
 ---
 
-#### Funktion und Aufbau von Bibliothekssystemen, Teil 1
+## Funktion und Aufbau von Bibliothekssystemen, Teil 1
 
 ##### Metadatenstandards in Bibliotheken (MARC21)
 Damit wir die Funktion und den Aufbau von Bibliothekssystemen verstehen, braucht es zuerst eine Einführung in den Metadatenstandard. In Bibliotheken ist der Standard MARC21 (Machine Readable Cataloging) in Gebrauch. Die Zahl 21 steht dabei für das 21. Jahrhundert. Der Metadatenstandard sollte nicht mit dem Dateiformat verwechselt werden. Mit Metadatenstandard ist eine getroffene Verabredung gemeint, während das Dateiformat die technische Ausprägung beschreibt, die die Daten Computer-lesbar machen. 
