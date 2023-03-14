@@ -3,6 +3,8 @@ title: "Lehreinheit 1"
 date: 2023-02-15
 ---
 
+## Technische Grundlagen
+
 #### Teil 1, Vormittag
 Die Blockwoche in unser letztes Semester an der Fachhochschule Graubünden startete mit dem Modul Bibliotheks- und Archivinformatik. Zuerst wurden alle organisatorischen Fragen geklärt. Dies umfasste vor allem die Durchführung und Form des Leistungsnachweises. Der Leistungsnachweis wird in Form eines Lerntagebuchs abgelegt. Für dieses Tagebuch schreibt man nach jeder Unterrichtseinheit einen Bericht. Zudem wird ein separater Artikel mit dem Wissensstand vor und nach dem Modul geschrieben sowie zu spezifischen Übungen. Mit dieser Form des Leistungsnachweises kann ich mich sehr gut anfreunden. So kann man regelmässig und im bereits im Voraus an der Prüfungsleistung arbeiten und muss nicht alles während der Prüfungs- und Abgabezeit erledigen. Der Abgabetermin für die Lerntagebücher wird am 30. Juni sein, was ich als sehr fair betrachte. 
 
