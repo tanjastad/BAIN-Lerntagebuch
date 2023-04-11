@@ -5,6 +5,8 @@ date: 2023-04-04
 
 ## Funktion und Aufbau von Bibliothekssystemen, Teil 2
 
-![Sketchnote]()
+
+
+![Sketchnote](https://github.com/tanjastad/BAIN-Lerntagebuch/blob/master/Sketchnote_11.04.2023.jpg)
 
 
