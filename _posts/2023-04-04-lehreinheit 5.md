@@ -7,7 +7,7 @@ date: 2023-04-04
 
 In der Woche vor der BAIN-Vorlesung besuchte ich einen Sketchnote-Kurs der Fachhochschule Graubünden. Um das Gelernte gleich praktisch anzuwenden, verfasste ich die Notizen während der Einheit auf diese Weise. Hier ist das Resultat:
 
-![Sketchnote](https://github.com/tanjastad/BAIN-Lerntagebuch/blob/master/Sketchnote_11.04.2023.jpg)
+![Sketchnote](https://user-images.githubusercontent.com/125452743/232825282-01599de4-e684-4270-b893-907d96a3e970.png)
 
 Zu Beginn der Einheit befassten wir uns gleich wieder praktisch mit dem Bibliothekssystem Koha. In der bibliothekarischen Praxis wird mit RDA kaum noch selbständig katalogisiert. Man importiert die Daten von einer Institution und passt lediglich gravierende Fehler und bibliotheksinterne Eintragungen an. Die Vorteile sind die Arbeitserleichterung, eine geringere Fehleranfälligkeit und man kann das Katalogisat einmal in aller Ruhe machen ohne gestresst zu sein. Copy Cataloging ist auch mit Koha möglich. Dafür muss der Server Z39.50/SRU eingerichtet werden. SRU steht für Search/Retrieve via URL und ist der Nachfolger vom Z39.50-Protokoll. 
 Ist diese Einstellung vorgenommen, kann unter der Katalogisierungsfunktion einen Import (copy cataloging) über die Funktion Z39.50/SRU vorgenommen werden. Der gesuchte Titel kann über verschiedene Suchfelder gefunden werden, danach überprüft man die Felder und muss den Medientyp und einen Barcode vergeben. 
