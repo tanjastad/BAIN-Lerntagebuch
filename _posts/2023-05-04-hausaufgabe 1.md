@@ -1,6 +1,6 @@
 ---
 title: "Hausaufgabe 1"
-date: 2023-04-25
+date: 2023-05-04
 ---
 
 ## Hausaufgabe 1: Vergleich AtoM Demo und ArchivesSpace
