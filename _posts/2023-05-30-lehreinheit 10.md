@@ -22,7 +22,7 @@ BIBFRAME wird seit 2012 entwickelt und gilt als Nachfolger von MARC21. Es basier
 | FRBR wird noch nicht vollständig abgedeckt | MARCXML ist für den Menschen nicht gut lesbar
 | andere Verwendung der Vokabulare (FRBR und RDA)
 | *(Quelle: http://www.payer.de/dbaufbau/dbauf07.html)* | *(Quelle: https://silo.tips/download/datenaustauschprozesse-zwischen-bibliotheken-im-deutschsprachigen-raum-vor-dem-u)*
-   |
+   
 
 ### Records in Contexts (RiC)
 RiC basiert ebenfalls auf den Linked-Data-Prinzipien und ermöglicht neue und mehrfache Beziehungen zwischen den Entitäten. Aktuell ist man an einer Ausarbeitung einer Schweizer Version des Standards dran. RiC wäre ein neuer archivischer Verzeichnungsstandard, der die vier bisherigen Standards ICA-Standards ISAD(G), ISAAR(CPF), ISDF und ISDIAH ablösen soll. 
