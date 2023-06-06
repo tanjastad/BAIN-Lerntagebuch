@@ -1,6 +1,6 @@
 ---
 title: "Abschlussartikel: Was habe ich (nicht) gelernt?"
-date: 2023-02-15
+date: 2023-06-06
 ---
 ### Gelerntes
 Während dem letzten Semester arbeiteten wir uns im Modul „Bibliotheks- und Archivinformatik“ von links nach rechts und von oben nach unten durch das Schaubild. Mit diesem Schaubild starteten wir vor knapp vier Monaten ins Modul. Damals konnte ich mir noch nicht so genau vorstellen, was mich in BAIN erwartet. Das Schaubild habe ich in der ersten Sitzung so erklärt: 
