@@ -1,5 +1,5 @@
 ---
-title: "Lehreinheit 1"
+title: "Lehreinheit 1 und 2"
 date: 2023-02-15
 ---
 
